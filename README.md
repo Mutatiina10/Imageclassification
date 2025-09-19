@@ -1,8 +1,10 @@
 This is my first Image classification project WITH CNN.
 I used a dataset from kaggle.com.
 I used Google collab to write the code. I had to first mount my drive to collab
+
     from google.colab import drive
     drive.mount('/content/drive')
+
 Language used : PYTHON
 Libraries : matplotlib, numpy, seaborn, tensorflow, keras, warning, os
 
